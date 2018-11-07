@@ -6,6 +6,6 @@ in the matplotlib.ipynb file. This is only the very beginning, and more examples
 - Clone the repository
 - Run the matplotlib.ipynb in the Jupyter notbook
 
-Thanks and I look forward to your commit :D
+Thanks~ (I am more than happy to see your commits) :D
 
 
